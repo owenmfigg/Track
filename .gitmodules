@@ -1,0 +1,3 @@
+[submodule "IMG"]
+	path = IMG
+	url = ./IMG
